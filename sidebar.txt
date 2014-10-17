@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sdz:home|Door43 (sdz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sdz|d43-sdz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sdz/archive/master.zip|d43-sdz.zip]]
+
+**Recent Changes**
+{{changes>ns = sdz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sdz|Ethnologue data]]
+
